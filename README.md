@@ -24,7 +24,7 @@
 ---
 **IMPORTANT**
 
-This html will NOT WORK as a standalone html file. It requires that you open a chat in Claude (https://claude.ai/), upload this html file and ask Claude to render it as an artifact. 
+This html will NOT WORK as a standalone html file. It requires that you open a chat in Claude (https://claude.ai/), upload the writing_assistant_claude_ai.html file into the chat and ask Claude to render it as an artifact.
 ---
 Once Claude has done this, you'll see the arifact as a markdown editor pre-loaded sample essay (a summary of the writing assistant) in the main text area. This is just a placeholder to demonstrate how the tool works.
 
