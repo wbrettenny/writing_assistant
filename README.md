@@ -1,5 +1,5 @@
 # How to Use the Essay Editor
-## A Guide to AI-Assisted Writing — Where You Write, and the AI Helps
+## A Guide to AI-Assisted Writing - Where You Write, and the AI Helps
 
 ---
 
